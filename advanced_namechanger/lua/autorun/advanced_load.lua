@@ -3,11 +3,11 @@ Name_Changer = Name_Changer or {}
 local luaroot = "advanced_namechanger"
 
 function LogInfo(message)
-	MsgC(Color(0, 255, 0), "[U1tim4te-Namechanger] " .. message .. "\n")
+	MsgC(Color(0, 255, 0), "[ANC] " .. message .. "\n")
 end
 
 function LogWarning(message)
-	MsgC(Color(255, 255, 0), "[U1tim4te-Namechanger] " .. message .. "\n")
+	MsgC(Color(255, 255, 0), "[ANC] " .. message .. "\n")
 end
 
 if SERVER then
