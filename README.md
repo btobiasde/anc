@@ -1,4 +1,4 @@
-### [ANC] Advances Name Changer ###
+### [ANC] Advanced Name Changer ###
 
 Advanced NameChanger, a new unique name changer with auto name generation and smooth design.
 
